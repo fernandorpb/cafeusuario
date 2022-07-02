@@ -1,0 +1,16 @@
+html{
+    background: url(/imagenes/borroso.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.estilo{
+    font-family: 'Splash', cursive;
+    display: block;
+    padding: 40px 510px;
+    font-size: 80px;
+}
+h1{
+    display: block;
+    padding: 40px 480px;
+    font-size: 40px;
+}
